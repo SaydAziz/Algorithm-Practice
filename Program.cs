@@ -13,6 +13,8 @@ namespace Algorithms
             Assignment_1.AddNameToStack("Vanya"); // O(1)
             Assignment_1.PrintNameStack(); // O(n)
             Assignment_1.PrintSquare(); // O(n^2)
+
+            Assignment_2.DoExample();
         }
     }
 }

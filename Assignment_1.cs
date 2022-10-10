@@ -38,6 +38,7 @@ namespace Algorithms
             {
                 Console.WriteLine(name);
             }
+            Console.WriteLine("\n");
         }
     }
 }
