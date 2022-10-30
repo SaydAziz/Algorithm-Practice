@@ -15,6 +15,12 @@ namespace Algorithms
             Assignment_1.PrintSquare(); // O(n^2)
 
             Assignment_2.DoExample();
+
+            Assignment_3.storeArray();
+            Assignment_3.storeDictionary();
+            Assignment_3.storeStack();
+            Assignment_3.storeQueue();
+
         }
     }
 }
