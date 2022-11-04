@@ -1,0 +1,4 @@
+Assignment 1 - Big O notation
+    - AddNameToStack function: O(1) because no matter what input you use, it will still only do one operation and will not ever take longer.
+    - PrintNameStack function: O(n) because the size of the array is equal to the amount of times it will perform the opperation so the time it takes to complete the algorithm will scale linearly.
+    - PrintSquare function: O(n^2) because each time the operation goes through an element, it actually has to go through the same amount of elements within said element, the time will quadratically increase. If there are 9 elements, each one of those will have 9 elements inside. This means that the size of the array n will always be multiplied by the amount of elements inside one element n (n*n). This gives us O(n*n) or O(n^2). 
