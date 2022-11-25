@@ -47,3 +47,4 @@ D:\CodeStuffs\Algorithm-Practice\obj\Debug\net6.0\Algorithms.genruntimeconfig.ca
 D:\CodeStuffs\Algorithm-Practice\obj\Debug\net6.0\ref\Algorithms.dll
 D:\CodeStuffs\Algorithm-Practice\bin\Debug\net6.0\names.txt
 D:\CodeStuffs\Algorithm-Practice\bin\Debug\net6.0\Capitals.txt
+D:\CodeStuffs\Algorithm-Practice\bin\Debug\net6.0\scores.txt
