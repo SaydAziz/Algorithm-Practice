@@ -6,3 +6,6 @@ This project holds all algorithm examples created for the class Algorithms FA22.
 Assignment 1 - Big O Notation
 Assignment 2 - Fisher Yates Shuffle
 Assignment 3 - Data Structures
+Assignment 4 - Sorting
+Assignment 5 - Searching
+Assignment 6 - Tree Structure
