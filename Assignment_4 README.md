@@ -1,4 +1,4 @@
-Assignment 4 - Sorting
+Assignment 5 - Searching
 
     - Bubble Sort
         * Starts at the beginning of an array and swaps the first two elements if the first is greater than the second.
