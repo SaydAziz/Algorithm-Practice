@@ -21,16 +21,20 @@ namespace Algorithms
             //Assignment_3.storeStack();
             //Assignment_3.storeQueue();
 
-            Assignment_4.BubbleSort(Assignment_4.ParseScores());
-            Assignment_4.InsertionSort(Assignment_4.ParseScores());
-            Assignment_4.SelectionSort(Assignment_4.ParseScores());
-            Assignment_4.HeapSort(Assignment_4.ParseScores());
-            Assignment_4.QuickSort(Assignment_4.ParseScores());
-            Assignment_4.MergeSort(Assignment_4.ParseScores());
-            Assignment_4.ShowSummary();
-            
+            //Assignment_4.BubbleSort(Assignment_4.ParseScores());
+            //Assignment_4.InsertionSort(Assignment_4.ParseScores());
+            //Assignment_4.SelectionSort(Assignment_4.ParseScores());
+            //Assignment_4.HeapSort(Assignment_4.ParseScores());
+            //Assignment_4.QuickSort(Assignment_4.ParseScores());
+            //Assignment_4.MergeSort(Assignment_4.ParseScores());
+            //Assignment_4.ShowSummary();
 
+            //Assignment_5.LinearSearch(Assignment_4.ParseScores(), 56);
+            //Assignment_5.BinarySearch(Assignment_4.ParseScores(), 43);
+            //Assignment_5.InterpolationSearch(Assignment_4.ParseScores(), 43);
+            //Assignment_5.ShowSummary();
 
+            Assignment_6.CreateTree(Assignment_4.ParseScores());
         }
     }
 }
